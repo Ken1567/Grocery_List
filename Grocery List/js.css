@@ -1,0 +1,15 @@
+.list {
+    padding: 50px;
+    background-color: white;
+    width: 27%;
+    border: 1px solid black;
+    text-align: left;
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#listContainer{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
